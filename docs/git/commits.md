@@ -1,3 +1,5 @@
+## Conventional Commits
+
 We use the [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/) specification for commit messages because it works well with the automated versioning and changelog generation as well as semantically versioning.
 
 The commit contains the following structural elements, to communicate intent to the consumers of your library:
@@ -14,7 +16,7 @@ The commit contains the following structural elements, to communicate intent to 
 - **perf:** performance improvements
 - **test:** jest / puppeteer / cypress / etc
 
-## BREAKING CHANGES use a ! suffix, eg. chore!: drop Node 6 from testing matrix
+#### BREAKING CHANGES use a ! suffix, eg. chore!: drop Node 6 from testing matrix
 
 when commiting, use the following format:
 
