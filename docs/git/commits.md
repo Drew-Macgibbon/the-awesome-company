@@ -1,3 +1,10 @@
+
+
+
+> Commits are snapshots of your entire repository at specific times…based around logical units of change. 
+> Over time, commits should tell a story of the history of your repository and how it came to be the way that it currently is.
+
+
 We use the [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/) specification for commit messages because it works well with the automated versioning and changelog generation as well as semantically versioning.
 
 The commit contains the following structural elements, to communicate intent to the consumers of your library:
