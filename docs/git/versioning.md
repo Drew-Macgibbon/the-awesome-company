@@ -1,4 +1,4 @@
-## For Packages/Public APIs use Semantic Versioning
+## For Packages/Public APIs versioning we use Semantic Versioning
 
 Semantic Versioning is a set of rules and requirements that dictate how version numbers are assigned and incremented. These rules quickly identify whether package/API changes are minor, major, or patch. This makes it easy for developers to know when they need to make changes to their code to accommodate a new version of a package/API.
 
